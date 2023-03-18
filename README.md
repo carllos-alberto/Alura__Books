@@ -26,7 +26,7 @@ A aplicação consiste na utilização dos métodos Mobile First é um tipo de a
 ## Referências
 @monica.h
 
-# Autor
+## Autor
 
 Carlos Alberto
 <div>
