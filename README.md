@@ -1,6 +1,6 @@
 
 # HTML5 e CSS3 - Responsividade com mobile first 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/carllos-alberto/Alura_Books/blob/master/LICENCE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/carllos-alberto/Alura__Books/blob/master/licence) 
 
 🔗 https://github.com/carllos-alberto/Alura__Books/new/master
 
