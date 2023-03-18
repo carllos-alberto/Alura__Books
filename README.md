@@ -2,7 +2,7 @@
 # HTML5 e CSS3 - Responsividade com mobile first 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/carllos-alberto/Alura_Books/blob/master/LICENCE) 
 
-🔗 https://github.com/carllos-alberto/Alura_Books/blob/master/LICENCE
+🔗 https://github.com/carllos-alberto/Alura__Books/new/master
 
 # Sobre o projeto
 Projeto de e-commerce AluraBooks, uma livraria online de livros sobre tecnologia realizado através do curso de responsividade com mobile first da Alura.
