@@ -3,13 +3,13 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/carllos-alberto/Alura__Books/blob/master/licence) 
 
 🔗 https://alura-books-three-mu.vercel.app/
-# Sobre o projeto
+## Sobre o projeto
 Projeto de e-commerce AluraBooks, uma livraria online de livros sobre tecnologia realizado através do curso de responsividade com mobile first da Alura.
 
 A aplicação consiste na utilização dos métodos Mobile First é um tipo de abordagem de design e desenvolvimento que prioriza a experiência do usuário em dispositivos móveis antes de considerar outros dispositivos, como desktops ou laptops. 
 
 
-## 📌 Layout mobile
+## 📌 Layout Mobile
 ![Mobile](https://user-images.githubusercontent.com/81397233/226143703-d667367a-1a6b-4743-91a1-1cb4602b7346.png)
 
 ## 📌Layout Tablet 
@@ -17,8 +17,8 @@ A aplicação consiste na utilização dos métodos Mobile First é um tipo de a
 ## 📌 Layout Desktop
 ![Desktop](https://imgur.com/6GsjQvJ.png)
 
-# Tecnologias utilizadas
-## Front end
+## Tecnologias utilizadas
+### Front end
 - HTML  
 - CSS 
 - SwiperJS
