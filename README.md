@@ -1,5 +1,5 @@
 
-# HTML5 e CSS3 - Responsividade com mobile first 
+# HTML5 e CSS3 - Responsividade com Mobile First 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/carllos-alberto/Alura__Books/blob/master/licence) 
 
 🔗 https://alura-books-three-mu.vercel.app/
