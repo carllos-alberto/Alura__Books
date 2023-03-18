@@ -6,7 +6,7 @@
 # Sobre o projeto
 Projeto de e-commerce AluraBooks, uma livraria online de livros sobre tecnologia realizado através do curso de responsividade com mobile first da Alura.
 
-A aplicação consite na utilização dos métodos Mobile First é um tipo de abordagem de design e desenvolvimento que prioriza a experiência do usuário em dispositivos móveis antes de considerar outros dispositivos, como desktops ou laptops. 
+A aplicação consiste na utilização dos métodos Mobile First é um tipo de abordagem de design e desenvolvimento que prioriza a experiência do usuário em dispositivos móveis antes de considerar outros dispositivos, como desktops ou laptops. 
 
 
 ## 📌 Layout mobile
