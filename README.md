@@ -22,6 +22,10 @@ A aplicação consiste na utilização dos métodos Mobile First é um tipo de a
 - HTML  
 - CSS 
 - SwiperJS
+
+## Referências
+@monica.h
+
 # Autor
 
 Carlos Alberto
